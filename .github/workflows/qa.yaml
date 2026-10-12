@@ -47,8 +47,8 @@ jobs:
         uses: SonarSource/sonarqube-scan-action@d209202bc7d53ff1cc128f7f907dac145c9d6ae9 # v8.3.0
         with:
           args: >
-            -Dsonar.projectKey=vnbrokers_vnbrokers-go
-            -Dsonar.organization=vnbrokers
+            -Dsonar.projectKey=hoalulab_hoalu-go
+            -Dsonar.organization=hoalulab
             -Dsonar.go.coverage.reportPaths=coverage.out
             -Dsonar.exclusions=**/examples/**,**/*_test.go
             -Dsonar.tests=.

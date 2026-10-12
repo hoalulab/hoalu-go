@@ -1,4 +1,4 @@
-# VNBrokers SDK for Golang
+# Hoalu SDK for Golang
 
 ## Disclaimer
 

@@ -1,4 +1,4 @@
-module github.com/vnbrokers/vnbrokers-go
+module github.com/hoalulab/hoalu-go
 
 go 1.26.4
 
