@@ -4,7 +4,7 @@ go 1.26.4
 
 require (
 	github.com/coder/websocket v1.8.15
-	github.com/shopspring/decimal v1.4.0
+	github.com/shopspring/decimal v1.5.0
 	github.com/vmihailenco/msgpack/v5 v5.4.1
 )
 
